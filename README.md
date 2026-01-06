@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome 👋
+
+I'm passionate about coding with [Julia Programming Language](https://julialang.org/) especially for
+- 💻 Simulations with [SciML](https://github.com/SciML) and
+- 🎮 Control Systems with [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl)
+
+My main projects are
+- 🔥 [Hestia.jl](https://github.com/stephans3/Hestia.jl/) to simulate heat conduction in a cuboid
+- 🤓 [BellBruno.jl](https://github.com/stephans3/BellBruno.jl/) to compute high-order derivatives of function compositions and
+- ⚡ [Ellasy.jl](https://github.com/stephans3/Ellasy.jl/) to simulate Electrical Ladders in time-domain (...work in progress...)
 
 <!--
 **stephans3/stephans3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
